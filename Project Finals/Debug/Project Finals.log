@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(392,10): warning C4101: 'num': unreferenced local variable
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(441,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(541,10): warning C4101: 'average': unreferenced local variable
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(608,20): warning C4244: '*=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(611,19): warning C4244: 'return': conversion from '__int64' to 'long', possible loss of data
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(690,8): warning C4101: 'filename': unreferenced local variable
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(707,8): warning C4101: 'filename': unreferenced local variable
+C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Project Finals\main.c(707,26): warning C4101: 'c': unreferenced local variable
+  Project Finals.vcxproj -> C:\Users\mdxra\OneDrive - İSTANBUL AYDIN ÜNİVERSİTESİ\IAU Class Data\COM117 COMPUTER PROGRAMMING-I && COM197 PROGRAMMING LAB I\Project Finals\Debug\Project Finals.exe
